@@ -2573,7 +2573,12 @@
     "@types/node" "*"
     form-data "^3.0.0"
 
-"@types/node@*", "@types/node@^14.0.10", "@types/node@^14.14.39":
+"@types/node@*", "@types/node@^18.8.1":
+  version "18.8.1"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.8.1.tgz#33e6759935f7a82821b72fb936e66f6b99a36173"
+  integrity sha512-vuYaNuEIbOYLTLUAJh50ezEbvxrD43iby+lpUA2aa148Nh5kX/AVO/9m1Ahmbux2iU5uxJTNF9g2Y+31uml7RQ==
+
+"@types/node@^14.0.10":
   version "14.14.39"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-14.14.39.tgz#9ef394d4eb52953d2890e4839393c309aa25d2d1"
   integrity sha512-Qipn7rfTxGEDqZiezH+wxqWYR8vcXq5LRpZrETD19Gs4o8LbklbmqotSUsMU+s5G3PJwMRDfNEYoxrcBwIxOuw==
